@@ -1,0 +1,37 @@
+# Logic extracted from R (RCMP function)
+# 1. Nitrogen Supply Calculation (Soil)
+# Supply_N = (MO / 100) * (Area * DA * 0.2 * 1000)
+# Note: Area here is pixel area (20x20 = 400m2?). 
+# R: idw_prod1@polygons[[t]]@area. If grid is 20x20, area is 400.
+# DA is Density.
+
+# 2. Update with Coefficients based on pH
+# If 6 <= pH < 7.3: Supply_N = (Supply_N * 0.06 * 0.02) + CompostN + VinazaN
+# If 7.3 <= pH <= 7.8: Supply_N = (Supply_N * 0.05 * 0.015) + ...
+# Else: Supply_N = (Supply_N * 0.04 * 0.01) + ...
+
+# 3. Final Dose (Requirement)
+# Dose_N = Yield_Potential - Supply_N
+# (Actually R code says: idw_prod1@data$var1.pred[l] - Dosis[l])
+# Wait, var1.pred is Yield? 
+# Line 788: idw_prod1@data$var1.pred <- idw_prod1@data$var1.pred * fa_v (Yield * VarietyFactor = N_Demand?)
+# Yes, typically Demand = Yield * Coeff.
+# So Final Dose = Demand - Supply.
+
+def calculate_nitrogen_supply(mo, ph, da, pixel_area, compost_n, vinaza_n):
+    # Base Supply
+    # (MO%) * (Mass of Soil?) 
+    # Mass = Area * Depth * DA. 
+    # Depth? R uses 0.2 constant (20cm).
+    supply = (mo / 100.0) * (pixel_area * da * 0.2 * 1000) 
+    
+    # pH Correction (Mineralization rate?)
+    # Note: R logic has nested ifs
+    if 6.0 <= ph < 7.3:
+        supply = (supply * 0.06 * 0.02)
+    elif 7.3 <= ph <= 7.8:
+        supply = (supply * 0.05 * 0.015)
+    else:
+        supply = (supply * 0.04 * 0.01)
+        
+    return supply + compost_n + vinaza_n

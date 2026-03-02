@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment and Secrets
+.env
+secrets.toml
+.streamlit/secrets.toml
+supabase_config.py
+
+# Data
+*.xlsx
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db

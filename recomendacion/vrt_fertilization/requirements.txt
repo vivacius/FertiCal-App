@@ -1,0 +1,9 @@
+pandas
+geopandas
+numpy
+scipy
+pyodbc
+openpyxl
+tqdm
+pykrige
+shapely

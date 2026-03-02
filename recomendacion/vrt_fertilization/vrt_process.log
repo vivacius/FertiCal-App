@@ -1,0 +1,207 @@
+2026-01-30 10:26:22,578 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:26:22,578 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:26:22,586 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:26:23,502 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:26:23,505 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:26:25,178 - MAIN - INFO - Processing Hacienda: 80103, Suerte: 121D
+2026-01-30 10:26:25,180 - MAIN - WARNING - Geometry not found for 80103-121D
+2026-01-30 10:26:25,181 - MAIN - INFO - Process Completed
+2026-01-30 10:32:25,564 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:32:25,565 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:32:25,576 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:32:25,970 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:32:25,974 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:32:26,399 - MAIN - INFO - Processing Hacienda: 80103, Suerte: 121D
+2026-01-30 10:32:26,404 - MAIN - WARNING - Geometry not found for 80103-121D
+2026-01-30 10:32:26,405 - MAIN - INFO - Process Completed
+2026-01-30 10:35:38,320 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:35:38,320 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:35:38,324 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:35:38,599 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:35:38,601 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:35:38,785 - MAIN - INFO - Processing Hacienda: 80103, Suerte: 121D
+2026-01-30 10:35:38,786 - MAIN - INFO - Looking for Hac: 080103 (Original: 80103), Ste: 121D
+2026-01-30 10:35:38,790 - MAIN - WARNING - Productivity map not found: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\80103\2025\121D\80103121D.shp
+2026-01-30 10:35:38,790 - MAIN - INFO - Process Completed
+2026-01-30 10:36:11,962 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:36:11,962 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:36:11,966 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:36:12,245 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:36:12,247 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:36:12,444 - MAIN - INFO - Processing Hacienda: 80103, Suerte: 121D
+2026-01-30 10:36:12,444 - MAIN - INFO - Looking for Hac: 080103 (Original: 80103), Ste: 121D
+2026-01-30 10:36:12,450 - MAIN - WARNING - Productivity map not found: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 10:36:12,451 - MAIN - WARNING - Productivity map not found at alt path either: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\80103\2025\121D\80103121D.shp
+2026-01-30 10:36:12,452 - MAIN - INFO - Process Completed
+2026-01-30 10:37:35,212 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:37:35,214 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:37:35,222 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:37:35,561 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:37:35,564 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:37:35,987 - MAIN - INFO - Processing Hacienda: 80103, Suerte: 121D
+2026-01-30 10:37:35,987 - MAIN - INFO - Looking for Hac: 080103 (Original: 80103), Ste: 121D
+2026-01-30 10:37:36,013 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 10:37:36,016 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 10:37:39,002 - MAIN - ERROR - Error processing 80103-121D: can't multiply sequence by non-int of type 'float'
+2026-01-30 10:37:39,003 - MAIN - INFO - Process Completed
+2026-01-30 10:38:23,472 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:38:23,473 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:38:23,477 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:38:23,752 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:38:23,754 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:38:23,930 - MAIN - INFO - Processing Hacienda: 80103, Suerte: 121D
+2026-01-30 10:38:23,930 - MAIN - INFO - Looking for Hac: 080103 (Original: 80103), Ste: 121D
+2026-01-30 10:38:23,934 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 10:38:23,935 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 10:38:24,088 - MAIN - INFO - Selected Mix: {'Nitro_Xtends': 1.0}
+2026-01-30 10:38:24,582 - src.data_loader - WARNING - No area found for Hda: 80103, Ste: 121D
+2026-01-30 10:38:24,583 - MAIN - ERROR - Error processing 80103-121D: 'Eficiencia.de.absorcion'
+2026-01-30 10:38:24,584 - MAIN - INFO - Process Completed
+2026-01-30 10:40:59,269 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:40:59,269 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:40:59,274 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:40:59,565 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:40:59,568 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:40:59,745 - MAIN - INFO - Processing Hacienda: 80103, Suerte: 121D
+2026-01-30 10:40:59,746 - MAIN - INFO - Looking for Hac: 080103 (Original: 80103), Ste: 121D
+2026-01-30 10:40:59,750 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 10:40:59,750 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 10:40:59,911 - MAIN - INFO - Selected Mix: {'Nitro_Xtends': 1.0}
+2026-01-30 10:41:00,036 - MAIN - ERROR - Error processing 80103-121D: 'Kg/Ha-Real'
+2026-01-30 10:41:00,037 - MAIN - INFO - Process Completed
+2026-01-30 10:42:26,098 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:42:26,099 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:42:26,108 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:42:26,472 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:42:26,474 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:42:26,826 - MAIN - INFO - Processing Hacienda: 080103, Suerte: 121D
+2026-01-30 10:42:26,827 - MAIN - INFO - Looking for Hac: 080103 (Original: 080103), Ste: 121D
+2026-01-30 10:42:26,832 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 10:42:26,833 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 10:42:26,990 - MAIN - INFO - Selected Mix: {'Nitro_Xtends': 1.0}
+2026-01-30 10:42:27,183 - MAIN - INFO - Hopper Config: {'TOLVA 1': 218.55, 'TOLVA 2': 123.23, 'TOLVA 3': 123.23, 'Kg/Ha-Real': 465.0}
+2026-01-30 10:42:27,185 - src.reporting - INFO - Created directory: c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\080103\2025\Semana37
+2026-01-30 10:42:27,255 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\080103\2025\Semana37\080103_121D_recomendacion.xlsx
+2026-01-30 10:42:27,292 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\080103\2025\Semana37\080103_121D_tolvas.xlsx
+2026-01-30 10:42:27,293 - MAIN - INFO - Process Completed
+2026-01-30 10:43:09,571 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:43:09,571 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:43:09,580 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:43:09,908 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:43:09,911 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:43:10,272 - MAIN - INFO - Processing Hacienda: 080103, Suerte: 121D
+2026-01-30 10:43:10,272 - MAIN - INFO - Looking for Hac: 080103 (Original: 080103), Ste: 121D
+2026-01-30 10:43:10,278 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 10:43:10,278 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 10:43:10,435 - MAIN - INFO - Selected Mix: {'Nitro_Xtends': 1.0}
+2026-01-30 10:43:10,611 - MAIN - INFO - Hopper Config: {'TOLVA 1': 218.55, 'TOLVA 2': 123.23, 'TOLVA 3': 123.23, 'Kg/Ha-Real': 465.0}
+2026-01-30 10:43:10,665 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\080103\2025\Semana37\080103_121D_recomendacion.xlsx
+2026-01-30 10:43:11,020 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\080103\2025\Semana37\080103_121D_tolvas.xlsx
+2026-01-30 10:43:11,022 - MAIN - INFO - Process Completed
+2026-01-30 10:50:46,177 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:50:46,178 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:50:46,188 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:50:46,546 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:50:46,549 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:50:46,947 - MAIN - INFO - Processing Hacienda: 080103, Suerte: 121D
+2026-01-30 10:50:46,948 - MAIN - INFO - Looking for Hac: 080103 (Original: 080103), Ste: 121D
+2026-01-30 10:50:46,954 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 10:50:46,955 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 10:50:47,128 - MAIN - INFO - Selected Mix: {'Nitro_Xtends': 1.0}
+2026-01-30 10:50:47,324 - MAIN - INFO - Hopper Config: {'TOLVA 1': 218.55, 'TOLVA 2': 123.23, 'TOLVA 3': 123.23, 'Kg/Ha-Real': 465.0}
+2026-01-30 10:50:47,382 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\080103\2025\Semana37\080103_121D_recomendacion.xlsx
+2026-01-30 10:50:47,424 - pyogrio._io - INFO - Created 357 records
+2026-01-30 10:50:47,434 - src.reporting - INFO - Saved Shapefile to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\080103\2025\Semana37\080103121D_U.shp
+2026-01-30 10:50:47,470 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\080103\2025\Semana37\080103_121D_tolvas.xlsx
+2026-01-30 10:50:47,507 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\completo_recomendacion.xlsx
+2026-01-30 10:50:47,508 - MAIN - INFO - Saved Consolidated Report: c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\completo_recomendacion.xlsx
+2026-01-30 10:50:47,509 - MAIN - INFO - Process Completed
+2026-01-30 10:59:01,013 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 10:59:01,014 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 10:59:01,017 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 10:59:01,308 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 10:59:01,310 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 10:59:01,500 - MAIN - INFO - Processing Hacienda: 080103, Suerte: 121D
+2026-01-30 10:59:01,501 - MAIN - INFO - Looking for Hac: 080103 (Original: 080103), Ste: 121D
+2026-01-30 10:59:01,505 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 10:59:01,505 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 10:59:01,653 - MAIN - INFO - Selected Mix: {'Nitro_Xtends': 1.0}
+2026-01-30 10:59:01,765 - MAIN - INFO - Hopper Config: {'TOLVA 1': 218.55, 'TOLVA 2': 123.23, 'TOLVA 3': 123.23, 'Kg/Ha-Real': 465.0}
+2026-01-30 10:59:01,821 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\Semana37_excel\080103121D_recomendacion.xlsx
+2026-01-30 10:59:01,855 - pyogrio._io - INFO - Created 357 records
+2026-01-30 10:59:01,868 - src.reporting - INFO - Saved Shapefile to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\080103121D\080103121D_U.shp
+2026-01-30 10:59:01,902 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\Semana37_excel\080103121D_U_tolvas.xlsx
+2026-01-30 10:59:01,941 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\completo_recomendacion.xlsx
+2026-01-30 10:59:01,942 - MAIN - INFO - Saved Consolidated Report: c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\completo_recomendacion.xlsx
+2026-01-30 10:59:01,942 - MAIN - INFO - Process Completed
+2026-01-30 11:04:00,216 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 11:04:00,216 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 11:04:00,223 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 11:04:01,087 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 11:04:01,090 - MAIN - INFO - Loading DA reference table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\DA.csv
+2026-01-30 11:04:01,092 - MAIN - INFO - Loading Sampling Inventory from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Datos_muestreo_optimizado\Inventario area muestreo optimizado.xlsx
+2026-01-30 11:04:01,132 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 11:04:01,133 - MAIN - ERROR - Failed to load global shapefiles: 'shp_hacienda'
+2026-01-30 11:14:38,234 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 11:14:38,234 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 11:14:38,240 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 11:14:39,166 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 11:14:39,169 - MAIN - INFO - Loading DA reference table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\DA.csv
+2026-01-30 11:14:39,171 - MAIN - INFO - Loading Sampling Inventory from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Datos_muestreo_optimizado\Inventario area muestreo optimizado.xlsx
+2026-01-30 11:14:39,208 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 11:14:39,209 - MAIN - ERROR - Failed to load global shapefiles: 'shp_hacienda'
+2026-01-30 11:29:02,921 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 11:29:02,921 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 11:29:02,928 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 11:29:03,765 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 11:29:03,768 - MAIN - INFO - Loading DA reference table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\DA.csv
+2026-01-30 11:29:03,770 - MAIN - INFO - Loading Sampling Inventory from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Datos_muestreo_optimizado\Inventario area muestreo optimizado.xlsx
+2026-01-30 11:29:03,807 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 11:29:04,957 - MAIN - INFO - Processing Hacienda: 080103, Suerte: 121D
+2026-01-30 11:29:04,958 - MAIN - INFO - Looking for Hac: 080103 (Original: 080103), Ste: 121D
+2026-01-30 11:29:04,962 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 11:29:04,962 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 11:29:05,244 - MAIN - INFO - Selected Mix: {'Naxtrom': 1.0}
+2026-01-30 11:29:05,734 - MAIN - INFO - Hopper Config: {'TOLVA 1': 190.04, 'TOLVA 2': 107.15, 'TOLVA 3': 107.15, 'Kg/Ha-Real': 404.35}
+2026-01-30 11:29:05,805 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\Semana37_excel\080103121D_recomendacion.xlsx
+2026-01-30 11:29:05,838 - pyogrio._io - INFO - Created 357 records
+2026-01-30 11:29:05,848 - src.reporting - INFO - Saved Shapefile to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\080103121D\080103121D_U.shp
+2026-01-30 11:29:05,885 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\Semana37_excel\080103121D_U_tolvas.xlsx
+2026-01-30 11:29:05,927 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\completo_recomendacion.xlsx
+2026-01-30 11:29:05,928 - MAIN - INFO - Saved Consolidated Report: c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\completo_recomendacion.xlsx
+2026-01-30 11:29:05,928 - MAIN - INFO - Process Completed
+2026-01-30 11:29:25,941 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 11:29:25,941 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 11:29:25,945 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 11:29:26,227 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 11:29:26,229 - MAIN - INFO - Loading DA reference table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\DA.csv
+2026-01-30 11:29:26,231 - MAIN - INFO - Loading Sampling Inventory from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Datos_muestreo_optimizado\Inventario area muestreo optimizado.xlsx
+2026-01-30 11:29:26,266 - MAIN - INFO - RUTAS keys available: ['eficiencia', 'eficiencia_variedades', 'recomendacion', 'compost', 'da_ref', 'inventario_muestreo', 'puntos_muestreo_opt', 'puntos_muestreo_gen', 'parametros_kriging', 'parametros_interpolacion', 'shp_hacienda', 'shp_suerte_bound', 'mapas_productividad']
+2026-01-30 11:29:26,267 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 11:29:26,444 - MAIN - INFO - Processing Hacienda: 080103, Suerte: 121D
+2026-01-30 11:29:26,444 - MAIN - INFO - Looking for Hac: 080103 (Original: 080103), Ste: 121D
+2026-01-30 11:29:26,449 - MAIN - WARNING - Productivity map not found in 2025: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2025\121D\080103121D.shp
+2026-01-30 11:29:26,449 - MAIN - INFO - Found productivity map in fallback year 2024: c:\Users\sacorreac\OneDrive - Sector Agro\AP\9. MAPAS DE PRODUCTIVIDAD\080103\2024\121D\080103121D.shp
+2026-01-30 11:29:26,775 - MAIN - INFO - Selected Mix: {'Naxtrom': 1.0}
+2026-01-30 11:29:26,880 - MAIN - INFO - Hopper Config: {'TOLVA 1': 190.04, 'TOLVA 2': 107.15, 'TOLVA 3': 107.15, 'Kg/Ha-Real': 404.35}
+2026-01-30 11:29:26,937 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\Semana37_excel\080103121D_recomendacion.xlsx
+2026-01-30 11:29:26,973 - pyogrio._io - INFO - Created 357 records
+2026-01-30 11:29:26,983 - src.reporting - INFO - Saved Shapefile to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\080103121D\080103121D_U.shp
+2026-01-30 11:29:27,020 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\Semana37_excel\080103121D_U_tolvas.xlsx
+2026-01-30 11:29:27,055 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\completo_recomendacion.xlsx
+2026-01-30 11:29:27,055 - MAIN - INFO - Saved Consolidated Report: c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\completo_recomendacion.xlsx
+2026-01-30 11:29:27,055 - MAIN - INFO - Process Completed
+2026-01-30 11:47:49,851 - MAIN - INFO - Starting VRT Fertilization Process
+2026-01-30 11:47:49,852 - MAIN - INFO - Loading efficiency table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Tabla_eficiencia.csv
+2026-01-30 11:47:49,861 - MAIN - INFO - Loading recommendation order from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Recomendacion.xlsx
+2026-01-30 11:47:50,774 - MAIN - INFO - Loading variety efficiency from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\Eficiencia_variedades.csv
+2026-01-30 11:47:50,777 - MAIN - INFO - Loading DA reference table from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\csv a cargar\DA.csv
+2026-01-30 11:47:50,779 - MAIN - INFO - Loading Sampling Inventory from c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Datos_muestreo_optimizado\Inventario area muestreo optimizado.xlsx
+2026-01-30 11:47:50,818 - MAIN - INFO - Loading Compost and Vinaza tables...
+2026-01-30 11:47:51,080 - MAIN - INFO - Loading global shapefiles...
+2026-01-30 11:47:52,138 - MAIN - INFO - Processing Hacienda: 080103, Suerte: 121D
+2026-01-30 11:47:53,092 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\Semana37_excel\080103121D_recomendacion.xlsx
+2026-01-30 11:47:53,130 - pyogrio._io - INFO - Created 357 records
+2026-01-30 11:47:53,140 - src.reporting - INFO - Saved Shapefile to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\080103121D\080103121D_U.shp
+2026-01-30 11:47:53,177 - src.reporting - INFO - Saved Excel report to c:\Users\sacorreac\OneDrive - Sector Agro\AP\6. FERTILIZACION TV\Salidas\Oriente\2025\Semana37\Semana37_excel\080103121D_U_tolvas.xlsx
+2026-01-30 11:47:53,217 - MAIN - INFO - Saved Consolidated Report.

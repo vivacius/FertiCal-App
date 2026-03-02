@@ -17,12 +17,12 @@ def get_base64_image(file_path):
     except:
         return ""
 
-logo_base64 = get_base64_image(r"c:\Users\sacorreac\OneDrive - Sector Agro\AP\scripts\4_antigravity\logo_ipsa.JPG")
+logo_base64 = get_base64_image("logo_ipsa.JPG")
 
 # --- PAGE CONFIG ---
 st.set_page_config(
     page_title="Providencia FertiCal App",
-    page_icon=r"c:\Users\sacorreac\OneDrive - Sector Agro\AP\scripts\4_antigravity\logo_ipsa.ico",
+    page_icon="logo_ipsa.ico",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -421,7 +421,7 @@ if 'chat_open' not in st.session_state:
 
 # --- SIDEBAR FILTERS ---
 with st.sidebar:
-    st.image(r"c:\Users\sacorreac\OneDrive - Sector Agro\AP\scripts\4_antigravity\logo_ipsa.JPG", width=200)
+    st.image("logo_ipsa.JPG", width=200)
     st.markdown(f"<h3 style='color: {COLOR_PRIMARY}; text-align: center;'>Configuración Operativa</h3>", unsafe_allow_html=True)
     st.markdown("---")
     

@@ -338,7 +338,7 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # --- DATA LOADING ---
-@st.cache_data(ttl=1)  # Cache for 1 hour to optimize performance
+@st.cache_data(ttl=3600)  # Cache for 1 hour to optimize performance
 def load_data():
     try:
         # Load credentials (Streamlit features st.secrets for cloud deployment)
